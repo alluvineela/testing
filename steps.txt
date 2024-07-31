@@ -1,0 +1,9 @@
+
+// steps to run backend
+
+step 0 : npm ci
+step 1 : run vsts-npm-auth -config .npmrc
+step 2 : npm run build
+step 3 : remove static file folder path from .env(last 2 lines of .env)
+step 4 : add .env file in the same path as src
+step 5 : npm run startdev
