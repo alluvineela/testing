@@ -1,0 +1,21 @@
+give detailed info on what each individual worked on
+
+
+add the footer stick to the end of the page == Done
+
+add buttons to go back to the home page
+
+
+confirmation to the user
+
+and messages
+
+
+route changes to the nav bar  == Done
+
+wheenver validation fails disable submit button
+
+payment 
+
+mvvm = model view vue
+
